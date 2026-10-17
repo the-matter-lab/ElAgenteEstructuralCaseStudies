@@ -71,9 +71,10 @@ The following project directories are located under `tool_ablation/`.
 | `Case_study1B_Co-porphyrin_phenyl/` | Figure S21a |
 | `Case_study1B_Co-porphyrin_phenyl_generic/` | Figure S21b |
 | `Case_study2_Co-Pc_ligand_binding/` | Figure S22 |
-| `Case_study6_ethylene_insertion/` | Figure S23 |
-| `Case_study6_ethylene_insertion_TS_only/` (a) | Figure S24 |
-| `Case_study6_ethylene_insertion_TS_only_wotools/` (b) | Figure S24 |
+| `Case_study2_Co-Pc_H2O_DFT_validation/` | Figure S23 |
+| `Case_study6_ethylene_insertion/` | Figure S24 |
+| `Case_study6_ethylene_insertion_TS_only/` (a) | Figure S25 |
+| `Case_study6_ethylene_insertion_TS_only_wotools/` (b) | Figure S25 |
 
 (a) Generated using the full agent setup.  
 (b) Generated using the tool-ablation setup.
