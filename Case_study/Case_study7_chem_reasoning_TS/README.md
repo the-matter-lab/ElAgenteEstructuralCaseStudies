@@ -30,6 +30,13 @@ tree. Temporary visualization sidecars and `.xtboptok` marker files were omitted
 the molecular structures, reports, scripts, trajectories, and calculation outputs
 were retained.
 
+## DFT refinement
+
+Author-side B3LYP-D4/def2-SVP optimizations and frequency calculations started
+from the GPT-5.4 Run 1 structures are provided in
+[`dft_refinement/gpt-5.4_max/repeat_1/`](dft_refinement/gpt-5.4_max/repeat_1/).
+They were not performed by the agent.
+
 ## Session IDs
 
 | Model | Repeat | Session ID |

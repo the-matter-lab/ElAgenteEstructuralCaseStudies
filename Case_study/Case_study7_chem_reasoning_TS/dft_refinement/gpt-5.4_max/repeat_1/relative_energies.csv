@@ -1,0 +1,7 @@
+species,path,dE_kcal_mol,dG_kcal_mol
+reactant,A,0.0,0.0
+reactant,B,12.8,13.1
+TS,A,32.8,31.7
+TS,B,29.3,27.9
+pyrazole + triplet SO,A,-16.1,-28.9
+pyrazole + triplet SO,B,-16.0,-29.5
